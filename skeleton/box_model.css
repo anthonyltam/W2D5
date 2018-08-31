@@ -1,0 +1,30 @@
+div {
+  height: 200px;
+  width: 200px;
+  padding: 50px;
+  border: 5px solid black;
+  
+}
+
+#first-div {
+  background-color: #39cccc;
+
+}
+
+#second-div {
+  background-color: #ff4136;
+  box-sizing: border-box;
+}
+
+p {
+  min-height: 400px;
+  background-color: #7fdbff;
+}
+
+.image-1-container {
+    fixed-width:200px
+    fixed-height:600px
+    background-color: green;
+  
+  
+}
